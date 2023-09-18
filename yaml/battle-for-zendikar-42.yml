@@ -1,0 +1,114 @@
+---
+object: card
+id: 5f34f930-a7c6-400d-b6e8-b9908e0f0404
+oracle_id: ff0d05b9-0c9c-4217-abd2-7e7757a0c4c9
+multiverse_ids:
+- 401995
+mtgo_id: 58339
+mtgo_foil_id: 58340
+tcgplayer_id: 104812
+cardmarket_id: 284442
+name: Planar Outburst
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/5f34f930-a7c6-400d-b6e8-b9908e0f0404
+scryfall_uri: https://scryfall.com/card/bfz/42/planar-outburst?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/f/5f34f930-a7c6-400d-b6e8-b9908e0f0404.jpg?1562917450
+  normal: https://cards.scryfall.io/normal/front/5/f/5f34f930-a7c6-400d-b6e8-b9908e0f0404.jpg?1562917450
+  large: https://cards.scryfall.io/large/front/5/f/5f34f930-a7c6-400d-b6e8-b9908e0f0404.jpg?1562917450
+  png: https://cards.scryfall.io/png/front/5/f/5f34f930-a7c6-400d-b6e8-b9908e0f0404.png?1562917450
+  art_crop: https://cards.scryfall.io/art_crop/front/5/f/5f34f930-a7c6-400d-b6e8-b9908e0f0404.jpg?1562917450
+  border_crop: https://cards.scryfall.io/border_crop/front/5/f/5f34f930-a7c6-400d-b6e8-b9908e0f0404.jpg?1562917450
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: |-
+  Destroy all nonland creatures.
+  Awaken 4—{5}{W}{W}{W} (If you cast this spell for {5}{W}{W}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Awaken
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 91719374-7ac5-4afa-ada8-5da964dcf1d4
+set: bfz
+set_name: Battle for Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/91719374-7ac5-4afa-ada8-5da964dcf1d4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abfz&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bfz?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5f34f930-a7c6-400d-b6e8-b9908e0f0404/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aff0d05b9-0c9c-4217-abd2-7e7757a0c4c9&unique=prints
+collector_number: '42'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: f4ab74cd-064c-4b83-99bb-fb5301527e5b
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5705
+penny_rank: 447
+prices:
+  usd: '0.13'
+  usd_foil: '0.25'
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: '0.50'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401995
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Planar+Outburst&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Planar+Outburst&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Planar+Outburst
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/104812?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Planar+Outburst&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58339?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

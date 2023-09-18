@@ -1,0 +1,116 @@
+---
+object: card
+id: 762501fe-5102-4c21-8ad5-430590a59830
+oracle_id: 8b89c6f1-8c9e-43ef-ad6b-11424de090e4
+multiverse_ids:
+- 402068
+mtgo_id: 58469
+mtgo_foil_id: 58470
+tcgplayer_id: 105006
+cardmarket_id: 284466
+name: Tajuru Warcaller
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/762501fe-5102-4c21-8ad5-430590a59830
+scryfall_uri: https://scryfall.com/card/bfz/195/tajuru-warcaller?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/6/762501fe-5102-4c21-8ad5-430590a59830.jpg?1562922940
+  normal: https://cards.scryfall.io/normal/front/7/6/762501fe-5102-4c21-8ad5-430590a59830.jpg?1562922940
+  large: https://cards.scryfall.io/large/front/7/6/762501fe-5102-4c21-8ad5-430590a59830.jpg?1562922940
+  png: https://cards.scryfall.io/png/front/7/6/762501fe-5102-4c21-8ad5-430590a59830.png?1562922940
+  art_crop: https://cards.scryfall.io/art_crop/front/7/6/762501fe-5102-4c21-8ad5-430590a59830.jpg?1562922940
+  border_crop: https://cards.scryfall.io/border_crop/front/7/6/762501fe-5102-4c21-8ad5-430590a59830.jpg?1562922940
+mana_cost: "{3}{G}{G}"
+cmc: 5.0
+type_line: Creature — Elf Warrior Ally
+oracle_text: Rally — Whenever Tajuru Warcaller or another Ally enters the battlefield
+  under your control, creatures you control get +2/+2 until end of turn.
+power: '2'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Rally
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 91719374-7ac5-4afa-ada8-5da964dcf1d4
+set: bfz
+set_name: Battle for Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/91719374-7ac5-4afa-ada8-5da964dcf1d4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abfz&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bfz?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/762501fe-5102-4c21-8ad5-430590a59830/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b89c6f1-8c9e-43ef-ad6b-11424de090e4&unique=prints
+collector_number: '195'
+digital: false
+rarity: uncommon
+flavor_text: Her rallying cry reaches far beyond the Tajuru elves, inspiring all those
+  who hear it.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anastasia Ovchinnikova
+artist_ids:
+- 3605d81f-5c97-4958-9dcc-d44a85e10305
+illustration_id: a338e794-8664-4f07-8e98-b432d03ed61d
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12921
+penny_rank: 7015
+prices:
+  usd: '0.08'
+  usd_foil: '0.86'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.20'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402068
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tajuru+Warcaller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tajuru+Warcaller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tajuru+Warcaller
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/105006?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tajuru+Warcaller&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58469?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

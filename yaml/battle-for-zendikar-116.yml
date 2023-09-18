@@ -1,0 +1,119 @@
+---
+object: card
+id: 4f03b00a-f6d0-419a-abfd-fa8bc63226db
+oracle_id: 12eeabe1-a02c-42a3-aa87-6774c4de7093
+multiverse_ids:
+- 401946
+mtgo_id: 58541
+mtgo_foil_id: 58542
+tcgplayer_id: 105637
+cardmarket_id: 284855
+name: Malakir Familiar
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/4f03b00a-f6d0-419a-abfd-fa8bc63226db
+scryfall_uri: https://scryfall.com/card/bfz/116/malakir-familiar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/f/4f03b00a-f6d0-419a-abfd-fa8bc63226db.jpg?1562913516
+  normal: https://cards.scryfall.io/normal/front/4/f/4f03b00a-f6d0-419a-abfd-fa8bc63226db.jpg?1562913516
+  large: https://cards.scryfall.io/large/front/4/f/4f03b00a-f6d0-419a-abfd-fa8bc63226db.jpg?1562913516
+  png: https://cards.scryfall.io/png/front/4/f/4f03b00a-f6d0-419a-abfd-fa8bc63226db.png?1562913516
+  art_crop: https://cards.scryfall.io/art_crop/front/4/f/4f03b00a-f6d0-419a-abfd-fa8bc63226db.jpg?1562913516
+  border_crop: https://cards.scryfall.io/border_crop/front/4/f/4f03b00a-f6d0-419a-abfd-fa8bc63226db.jpg?1562913516
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Bat
+oracle_text: |-
+  Flying, deathtouch
+  Whenever you gain life, Malakir Familiar gets +1/+1 until end of turn.
+power: '2'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Deathtouch
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 91719374-7ac5-4afa-ada8-5da964dcf1d4
+set: bfz
+set_name: Battle for Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/91719374-7ac5-4afa-ada8-5da964dcf1d4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abfz&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bfz?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4f03b00a-f6d0-419a-abfd-fa8bc63226db/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A12eeabe1-a02c-42a3-aa87-6774c4de7093&unique=prints
+collector_number: '116'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "They are deadly, and they are loyal. We can spare them a little blood."
+  —Harak, Malakir bloodwitch
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alejandro Mirabal
+artist_ids:
+- f77eebc1-2aa4-4cad-a158-aedbdfccbf0c
+illustration_id: fbd5a43b-0e91-47be-8500-13f91f6dde19
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16860
+penny_rank: 5357
+prices:
+  usd: '0.06'
+  usd_foil: '0.27'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.09'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401946
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Malakir+Familiar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Malakir+Familiar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Malakir+Familiar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/105637?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Malakir+Familiar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58541?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,113 @@
+---
+object: card
+id: 0b42ef87-8147-4124-9086-0279d42589c9
+oracle_id: d465a3d6-5830-456c-8e7a-908b464db846
+multiverse_ids:
+- 401917
+mtgo_id: 58335
+mtgo_foil_id: 58336
+tcgplayer_id: 105718
+cardmarket_id: 284805
+name: Inspired Charge
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/0b42ef87-8147-4124-9086-0279d42589c9
+scryfall_uri: https://scryfall.com/card/bfz/32/inspired-charge?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/b/0b42ef87-8147-4124-9086-0279d42589c9.jpg?1562897537
+  normal: https://cards.scryfall.io/normal/front/0/b/0b42ef87-8147-4124-9086-0279d42589c9.jpg?1562897537
+  large: https://cards.scryfall.io/large/front/0/b/0b42ef87-8147-4124-9086-0279d42589c9.jpg?1562897537
+  png: https://cards.scryfall.io/png/front/0/b/0b42ef87-8147-4124-9086-0279d42589c9.png?1562897537
+  art_crop: https://cards.scryfall.io/art_crop/front/0/b/0b42ef87-8147-4124-9086-0279d42589c9.jpg?1562897537
+  border_crop: https://cards.scryfall.io/border_crop/front/0/b/0b42ef87-8147-4124-9086-0279d42589c9.jpg?1562897537
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Instant
+oracle_text: Creatures you control get +2/+1 until end of turn.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 91719374-7ac5-4afa-ada8-5da964dcf1d4
+set: bfz
+set_name: Battle for Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/91719374-7ac5-4afa-ada8-5da964dcf1d4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abfz&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bfz?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0b42ef87-8147-4124-9086-0279d42589c9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad465a3d6-5830-456c-8e7a-908b464db846&unique=prints
+collector_number: '32'
+digital: false
+rarity: common
+flavor_text: |-
+  "For the lands you have lost and the beauty that remains, for freedom and the future, we must hold nothing back!"
+  —Gideon Jura
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Willian Murai
+artist_ids:
+- 5a553c8e-e3b9-40e0-bde5-1db621c53939
+illustration_id: e4d1e074-24db-4225-9c9d-4331abc27218
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14222
+penny_rank: 12339
+prices:
+  usd: '0.02'
+  usd_foil: '0.12'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.14'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401917
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Inspired+Charge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Inspired+Charge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Inspired+Charge
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/105718?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inspired+Charge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58335?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
